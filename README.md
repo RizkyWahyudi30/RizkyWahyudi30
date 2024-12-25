@@ -1,4 +1,9 @@
-[![MasterHead](https://64.media.tumblr.com/c9d2708ba18cdc460ba67faae03d5f65/ea7efe89a227436f-54/s540x810/17bc7647fb842490956668d1daf20ddb4571cd7c.gif)](https://github.com/RizkyWahyudi30)
+<p align="center">
+  <a href="https://github.com/RizkyWahyudi30">
+    <img src="https://64.media.tumblr.com/c9d2708ba18cdc460ba67faae03d5f65/ea7efe89a227436f-54/s540x810/17bc7647fb842490956668d1daf20ddb4571cd7c.gif" alt="MasterHead" width="100%" />
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Rizky Wahyudi</h1>
 <h3 align="center">A student</h3>
 <img align="right" alt="Nino-chan" width="400" src="https://i.pinimg.com/originals/33/3d/83/333d83e5a8279e2c05c2eeeef37f0394.gif">
