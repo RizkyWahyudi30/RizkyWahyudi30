@@ -6,7 +6,6 @@
 
 <h1 align="center">Hi 👋, I'm Rizky Wahyudi</h1>
 <h3 align="center">A student</h3>
-<img align="right" alt="Nino-chan" width="400" src="https://i.pinimg.com/originals/33/3d/83/333d83e5a8279e2c05c2eeeef37f0394.gif">
 
 <p align="bottom"> <img src="https://komarev.com/ghpvc/?username=rizkywahyudi30&label=Profile%20views&color=0e75b6&style=flat" alt="rizkywahyudi30" /> </p>
 
