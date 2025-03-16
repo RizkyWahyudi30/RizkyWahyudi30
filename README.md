@@ -1,41 +1,59 @@
-<p align="center">
-  <a href="https://github.com/RizkyWahyudi30">
-    <img src="https://64.media.tumblr.com/c9d2708ba18cdc460ba67faae03d5f65/ea7efe89a227436f-54/s540x810/17bc7647fb842490956668d1daf20ddb4571cd7c.gif" alt="MasterHead" width="100%" />
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=RizkyWahyudi30&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/RizkyWahyudi30)
+
+## Hi there, I'm Wahyuu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+🚀 **Web Developer | Graphic Designer | Penetration Testing | Bug Hunter**
+
+```csharp
+-------------------------
+Username : Whuuy
+Hobbies: Badminton, Learn Programm, Editing
+Location: Indonesian, Jakarta, East Jakarta, Cipinang Muara
+-------------------------
+```
+![](https://komarev.com/ghpvc/?username=latesturl&style=flat-square)
+
+## 🌐 Tech Stack
+### 📋 Languages | Libraries | Framework
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+
+### 📚 Frameworks & Libraries
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&theme=nautilus)](https://github.com/latesturl)
+
+## 📬 Let's Connect
+<p align="left">
+  <a href="https://whatsapp.com/channel/0029Vb4ngq4CxoB5889HOQ2V" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Rizky Wahyudi</h1>
-<h3 align="center">A student</h3>
+## 📊 GitHub Stats
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=latesturl&theme=2077" alt="Profile Details" style="width: 100%; max-width: 500px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=latesturl&theme=2077" alt="Repos per Language" style="width: 48%; max-width: 300px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=latesturl&theme=2077" alt="Most Commit Language" style="width: 48%; max-width: 300px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=latesturl&theme=2077" alt="Stats" style="width: 48%; max-width: 300px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=latesturl&theme=2077&utcOffset=8" alt="Productive Time" style="width: 48%; max-width: 300px;">
+</div>
 
-<p align="bottom"> <img src="https://komarev.com/ghpvc/?username=rizkywahyudi30&label=Profile%20views&color=0e75b6&style=flat" alt="rizkywahyudi30" /> </p>
-
-- 🔭 Hanya seorang **remaja yang sedang belajar
-  php untuk menjadi seorang fullstack Laravel**
-
-- ⚡ Tentang aku **aku baik dan ramah looh**
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/wahy_yuw/profilecard/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rizky-wahyudi-08a961339/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@kyuuudd) 
-
-# 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,py,react,vscode,gcp,github,git,gmail,laravel,react,linkedin,linux,mysql,nodejs,npm,php,postman,powershell,twitter,vite,vscode,windows)](https://skillicons.dev)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RizkyWahyudi30&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RizkyWahyudi30&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RizkyWahyudi30&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RizkyWahyudi30&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RizkyWahyudi30&limit=5&theme=light&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=RizkyWahyudi30&icon=0&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏆 GitHub Profile Trophy
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=latesturl&theme=dracula&row=2&column=3&margin-w=8&margin-h=8&no-frame=true&no-bg=true" alt="GitHub Trophies" style="width: 100%; max-width: 400px;">
+</div>
