@@ -34,8 +34,3 @@ Location: Indonesian, Jakarta, East Jakarta, Cipinang Muara
 [![](https://visitcount.itsvg.in/api?id=Rizkywahyudi30&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-## 🏆 GitHub Profile Trophy
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=RizkyWahyudi30&theme=dracula&row=2&column=3&margin-w=8&margin-h=8&no-frame=true&no-bg=true" alt="GitHub Trophies" style="width: 100%; max-width: 400px;">
-</div>
