@@ -36,5 +36,5 @@ Location: Indonesian, Jakarta, East Jakarta, Cipinang Muara
 
 ## 🏆 GitHub Profile Trophy
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=latesturl&theme=dracula&row=2&column=3&margin-w=8&margin-h=8&no-frame=true&no-bg=true" alt="GitHub Trophies" style="width: 100%; max-width: 400px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=RizkyWahyudi30&theme=dracula&row=2&column=3&margin-w=8&margin-h=8&no-frame=true&no-bg=true" alt="GitHub Trophies" style="width: 100%; max-width: 400px;">
 </div>
