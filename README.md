@@ -18,12 +18,6 @@ Location: Indonesian, Jakarta, East Jakarta, Cipinang Muara
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&theme=nautilus)](https://github.com/latesturl)
 
-## 📬 Let's Connect
-<p align="left">
-  <a href="https://whatsapp.com/channel/0029Vb4ngq4CxoB5889HOQ2V" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rizkywahyudi30&theme=vue&hide_border=false&include_all_commits=true&count_private=false)<br/>
