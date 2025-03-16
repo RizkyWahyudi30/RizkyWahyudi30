@@ -10,7 +10,7 @@ Hobbies: Badminton, Learn Programm, Editing
 Location: Indonesian, Jakarta, East Jakarta, Cipinang Muara
 -------------------------
 ```
-![](https://komarev.com/ghpvc/?username=latesturl&style=flat-square)
+![](https://komarev.com/ghpvc/?username=RizkyWahyudi30&style=flat-square)
 
 ## 🌐 Tech Stack
 ### 📋 Languages | Libraries | Framework
