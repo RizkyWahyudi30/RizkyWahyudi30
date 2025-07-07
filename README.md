@@ -14,7 +14,7 @@ Location: Indonesian, Jakarta, East Jakarta, Cipinang Muara
 
 ## 🌐 Tech Stack
 ### 📋 Languages Programming
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,java,c,php,nodejs,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,java,c,php,laravel,nodejs,dart,tailwind)](https://skillicons.dev)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/wahy_yuw/profilecard/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rizky-wahyudi-08a961339/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@kyuuudd) 
