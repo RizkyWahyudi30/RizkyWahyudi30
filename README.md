@@ -11,7 +11,7 @@ Location: Indonesian, Jakarta, East Jakarta, Cipinang Muara
 -------------------------
 ```
 ![](https://komarev.com/ghpvc/?username=RizkyWahyudi30&style=flat-square)
-
+---
 ## 🌐 Tech Stack
 ### 📋 Languages Programming
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,java,c,php,laravel,nodejs,dart,tailwind)](https://skillicons.dev)
@@ -25,11 +25,5 @@ Location: Indonesian, Jakarta, East Jakarta, Cipinang Muara
 ![](https://nirzak-streak-stats.vercel.app/?user=RizkyWahyudi30&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RizkyWahyudi30&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rizkywahyudi30&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=Rizkywahyudi30&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
