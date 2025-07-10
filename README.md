@@ -1,6 +1,10 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=RizkyWahyudi30&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/RizkyWahyudi30)
 
-## Hi there, I'm Wahyuu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rizky+Wahyudi!;+Welcome+to+my+profile!;+Web+Developer+Student" />
+</h1>
+
+
 🚀 **Learn Web Development | Research Engineering | Graphic Design**
 
 ```csharp
@@ -13,7 +17,6 @@ Location: Indonesian, Jakarta, East Jakarta, Cipinang Muara
 ![](https://komarev.com/ghpvc/?username=RizkyWahyudi30&style=flat-square)
 ---
 ## 🌐 Tech Stack
-### 📋 Languages Programming
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,java,c,php,laravel,nodejs,dart,tailwind)](https://skillicons.dev)
 
 ## 🌐 Socials:
@@ -21,9 +24,21 @@ Location: Indonesian, Jakarta, East Jakarta, Cipinang Muara
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RizkyWahyudi30&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RizkyWahyudi30&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RizkyWahyudi30&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=RizkyWahyudi30&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" width="100%"/>
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=RizkyWahyudi30&theme=tokyonight&hide_border=false" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkyWahyudi30&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="50%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
