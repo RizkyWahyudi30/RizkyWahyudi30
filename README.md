@@ -1,5 +1,3 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=RizkyWahyudi30&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/RizkyWahyudi30)
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rizky+Wahyudi!;+Welcome+to+my+profile!;+Web+Developer+Student" />
 </h1>
