@@ -5,27 +5,15 @@ I'm a Web Developer Student who loves building digital experiences. I focus on m
 ![](https://komarev.com/ghpvc/?username=RizkyWahyudi30&style=flat&abbreviated=true)
 
 <h2>Tech Stack</h2>
+<img width="42" height="42" alt="vscode-icons--file-type-html" src="https://github.com/user-attachments/assets/485a07f7-94d2-476d-a0c5-58fb03b57c8a" />
+<img width="42" height="42" alt="devicon--css3" src="https://github.com/user-attachments/assets/86cbb5c1-1c60-4468-837d-a781bc7822f0" />
+<img width="42" height="42" alt="logos--tailwindcss-icon" src="https://github.com/user-attachments/assets/ec3325f3-5799-4a40-b4d6-97d14aea7ac3" />
+<img width="42" height="42" alt="devicon--bootstrap" src="https://github.com/user-attachments/assets/285c16d3-499d-41d5-a0c9-ac664379307b" />
+<img width="42" height="42" alt="logos--javascript" src="https://github.com/user-attachments/assets/ea31a681-2459-4a75-975b-613edb89f3b3" />
+<img width="42" height="42" alt="logos--react" src="https://github.com/user-attachments/assets/a0c060cf-f1fb-41a2-9483-2506db32fdb2" />
+<img width="42" height="42" alt="vscode-icons--file-type-php2" src="https://github.com/user-attachments/assets/6e4cb28a-87d8-45a9-ad53-4f14f084d859" />
+<img width="42" height="42" alt="material-icon-theme--laravel" src="https://github.com/user-attachments/assets/dc0712a2-ba52-485f-83a1-1042a4042b13" />
 
-<p>
-  <a href="https://www.w3schools.com/html/">
-    <img src="https://api.iconify.design/logos:html-5.svg" width="40" height="40" alt="html5" />
-  </a>
-  <a href="https://www.w3schools.com/css/">
-    <img src="https://api.iconify.design/logos:css-3.svg" width="40" height="40" alt="css3" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://api.iconify.design/logos:javascript.svg" width="40" height="40" alt="js" />
-  </a>
-  <a href="https://www.php.net/">
-    <img src="https://api.iconify.design/logos:php.svg" width="40" height="40" alt="php" />
-  </a>
-  <a href="https://reactjs.org/">
-    <img src="https://api.iconify.design/logos:react.svg" width="40" height="40" alt="react" />
-  </a>
-  <a href="https://laravel.com/">
-    <img src="https://api.iconify.design/logos:laravel.svg" width="40" height="40" alt="laravel" />
-  </a>
-</p>
 
 
 <h2>GitHub Stats</h2>
