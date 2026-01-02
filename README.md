@@ -9,6 +9,8 @@ I'm a Web Developer Student who loves building digital experiences. I focus on m
 ![](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nodejs,php,laravel,git,github,vscode)
 
 <h2>GitHub Stats</h2>
- 
-![Stats Overview](https://github-readme-stats-eight-theta.vercel.app/api?username=RizkyWahyudi30&theme=tokyonight&show_icons=true)
-![Most Used Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RizkyWahyudi30&theme=tokyonight&layout=compact)
+
+<p>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RizkyWahyudi30&theme=tokyonight&show_icons=true" height="175" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RizkyWahyudi30&theme=tokyonight&layout=compact" height="175" />
+</p>
