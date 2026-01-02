@@ -1,41 +1,14 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rizky+Wahyudi!;+Welcome+to+my+profile!;+Web+Developer+Student" />
-</h1>
+<h1>Hi! It's Rizky <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28"></h1>
 
----
-## 💻 Tech Stack ⚡
+I'm a Web Developer Student who loves building digital experiences. I focus on modern web technologies and am passionate about creating clean, functional, and user-friendly applications. Currently honing my skills in the JavaScript and PHP ecosystems.
 
-<div align="center">
-  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![](https://komarev.com/ghpvc/?username=RizkyWahyudi30&style=flat&abbreviated=true)
 
+<h2>Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="30"</img></h2>
 
-</div>
+![](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nodejs,php,laravel,git,github,vscode)
 
-
-# 📊 GitHub Stats:
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=RizkyWahyudi30&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" width="100%"/>
-    </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=RizkyWahyudi30&theme=tokyonight&hide_border=false" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkyWahyudi30&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="50%"/>
-    </td>
-  </tr>
-</table>
-
----
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2>GitHub Stats <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22"></h2>
+ 
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=RizkyWahyudi30&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RizkyWahyudi30&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
