@@ -6,7 +6,12 @@ I'm a Web Developer Student who loves building digital experiences. I focus on m
 
 <h2>Tech Stack</h2>
 
-![](https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,php,laravel,git)
+<a href="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/></a>
+<a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/></a>
+<a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/></a>
+<a href="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/></a>
+<a href="https://laravel.com/"><img src="https://img.icons8.com/fluent/48/000000/laravel.png" alt="Laravel"/></a>
+
 
 <h2>GitHub Stats</h2>
 
