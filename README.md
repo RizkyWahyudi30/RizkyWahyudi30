@@ -6,7 +6,7 @@ I'm a Web Developer Student who loves building digital experiences. I focus on m
 
 <h2>Tech Stack</h2>
 
-![](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nodejs,php,laravel,git,github,vscode)
+![](https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,php,laravel,git)
 
 <h2>GitHub Stats</h2>
 
