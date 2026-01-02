@@ -10,5 +10,5 @@ I'm a Web Developer Student who loves building digital experiences. I focus on m
 
 <h2>GitHub Stats</h2>
  
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=RizkyWahyudi30&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RizkyWahyudi30&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Stats Overview](https://github-readme-stats-eight-theta.vercel.app/api?username=RizkyWahyudi30&theme=tokyonight&show_icons=true)
+![Most Used Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RizkyWahyudi30&theme=tokyonight&layout=compact)
