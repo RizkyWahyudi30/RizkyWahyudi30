@@ -17,8 +17,5 @@ I'm a Web Developer Student who loves building digital experiences. I focus on m
 
 
 <h2>GitHub Stats</h2>
-
-<p>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RizkyWahyudi30&theme=tokyonight&show_icons=true" height="175" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RizkyWahyudi30&theme=tokyonight&layout=compact" height="175" />
 </p>
